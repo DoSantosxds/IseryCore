@@ -1,0 +1,5 @@
+name: Core
+version: '1.0-SNAPSHOT'
+main: net.iseryproject.core.Core
+api-version: 1.19
+authors: [ DoSantos_, bitvise ]
